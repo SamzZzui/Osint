@@ -16,19 +16,18 @@
 
 ## 📑 Table of Contents
 
-1. [Overview](#🚀-Overview)  
-2. [Features](#🎯-features)  
-3. [Architecture & Modularity](#🛠️-architecture--modularity)  
-4. [Future Improvements](#🔮-future-improvements)  
-5. [Quick Start](#⚡-quick-start)  
-6. [Installation & Run](#💻-installation--run)  
-7. [Dependency Auto-Check](#⚙️-dependency-auto-check-optional)  
-8. [Usage Demo & Screenshots](#📸-usage-demo--screenshots)  
-9. [Sample Output](#🔹-sample-output)  
-10. [License](#📜-license)  
-11. [Notes](#⚡-notes)  
-12. [Disclaimer](#-disclaimer-use-this-framework-only-for-ethical-purposes)  
-
+1. [Overview](#overview)  
+2. [Features](#features)  
+3. [Architecture & Modularity](#architecture--modularity)  
+4. [Future Improvements](#future-improvements)  
+5. [Quick Start](#quick-start)  
+6. [Installation & Run](#installation--run)  
+7. [Dependency Auto-Check (Optional)](#dependency-auto-check-optional)  
+8. [Usage Demo & Screenshots](#usage-demo--screenshots)  
+9. [Sample Output](#sample-output)  
+10. [License](#license)  
+11. [Notes](#notes)  
+12. [Disclaimer](#disclaimer-use-this-framework-only-for-ethical-purposes)
 ---
 
 ## 🚀 Overview
