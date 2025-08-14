@@ -26,33 +26,12 @@ Optional: Use check_dependencies.py for auto-install
 
 ---
 
-## 🔹 Sample Output
-
-[+] Choose Module:
-1. Domain Lookup
-2. IP Information
-3. Email Search
-> 1
-
-Enter domain: example.com
-[*] Domain: example.com
-[*] IP: 93.184.216.34
-[*] ISP: Example ISP
-[*] Country: United States
-[*] Created: 1995-08-13
-
-> 3
-Enter email: test@example.com
-[*] Email Found: Yes
-[*] Breaches: 2
-[*] Sources: HaveIBeenPwned, LeakDB
-
----
-
 ## 🚀 Overview
 
-Ye **OSINT Framework** Python me bana ek modular tool hai jo cyber intelligence aur reconnaissance tasks ke liye use hota hai.  
-Framework menu-based interface provide karta hai jisse user easily different modules access kar sakta hai.
+ - This OSINT Framework is built in Python as a modular tool, used for cyber intelligence and reconnaissance tasks.
+
+ - The framework provides a menu-based interface, allowing users to easily access different modules.
+
 
 ---
 
