@@ -136,10 +136,10 @@ python check_dependencies.py
 # Step 4: Run the OSINT framework
 python main.py
 
-
+```
 ---
 
-## ⚠️ Disclaimer
+#### ⚠️ Disclaimer
 
 Use this framework only for ethical purposes.
 Unauthorized access to data or privacy violations is illegal.
