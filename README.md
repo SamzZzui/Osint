@@ -50,12 +50,12 @@ Add colored outputs for better UI using colorama.
 
 
 
-$ cd OSINT
+#$ cd OSINT
 
 3. Run main script:
 
 
 
-$ python main.py
+#$ python main.py
 
 4. Follow menu prompts.
