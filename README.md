@@ -10,14 +10,82 @@
   </a>
 </p>
 
+---
 
-<p align="center">
-  <a href="https://github.com/SamzZzui" target="_blank">
-    <img src="https://i.ibb.co/4p5m3Zy/osint-tools-banner.png" 
-         alt="OSINT Tools Banner" 
-         style="width:80%; max-width:800px; border-radius:15px; box-shadow:0 10px 30px rgba(0,0,0,0.3);"/>
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OSINT Tools Banner</title>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .banner {
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    padding: 30px 50px;
+    text-align: center;
+    max-width: 700px;
+  }
+
+  .banner img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .banner h1 {
+    font-size: 48px;
+    color: #4CAF50;
+    margin: 0;
+  }
+
+  .banner h2 {
+    font-size: 28px;
+    color: #1A73E8;
+    margin: 10px 0 20px;
+  }
+
+  .banner p {
+    font-size: 14px;
+    color: #555;
+    margin-top: 0;
+  }
+
+  /* Optional: add a glow effect around the magnifying glass icon */
+  .icon-glow {
+    filter: drop-shadow(0 0 10px #4CAF50);
+  }
+</style>
+</head>
+<body>
+
+<div class="banner">
+  <!-- OSINT Tools Image -->
+  <img src="https://i.imgur.com/5U8b2zZ.png" alt="OSINT Tools" class="icon-glow">
+
+  <h1>OSINT</h1>
+  <h2>TOOLS</h2>
+  <p>Design & Code by <strong>SamzZzui</strong></p>
+</div>
+
+</body>
+</html>
+
+
+
+---
+
+
 
 
 
