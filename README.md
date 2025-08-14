@@ -44,7 +44,7 @@ Add colored outputs for better UI using colorama.
 
 ### How to Run:
 
-1. Open terminal/command prompt.
+[1. Open terminal/command prompt.
 
 
 2. Navigate to folder:
@@ -59,4 +59,4 @@ $ cd OSINT
 
 $ python main.py
 
-4. Follow menu prompts.
+4. Follow menu prompts.]
