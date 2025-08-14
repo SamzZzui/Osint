@@ -43,6 +43,7 @@ Framework menu-based interface provide karta hai jisse user easily different mod
 - **Domain Lookup** – Domain ke bare me detail information.
 - **IP Information** – IP address ka location, ISP aur aur details.
 - **Email Search** – Email ke existence aur associated data check karein.
+- **Note: You'll need to register for an API key at Have I Been Pwned and include it in the headers.
 - **Social Media Search by Username** – Usernames se profiles find karein.
 - **Indian Phone Number Search** – Mobile numbers ka owner aur location.
 - **Data Breach Search** – Email ya username compromised hua ya nahi.
