@@ -144,14 +144,9 @@ python main.py
 Use this framework only for ethical purposes.
 Unauthorized access to data or privacy violations is illegal.
 
-MIT License
-Copyright (c) 2025 SAMZZZUI
+from colorama import Fore, Style
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-[]
+print(f"{Fore.GREEN}[✔] Success: Operation completed successfully!{Style.RESET_ALL}")
+print(f"{Fore.YELLOW}[!] Warning: Check your configuration.{Style.RESET_ALL}")
+print(f"{Fore.RED}[✖] Error: Failed to connect to server.{Style.RESET_ALL}")
+print(f"{Fore.CYAN}[i] Info: Process started...{Style.RESET_ALL}")
