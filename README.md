@@ -139,14 +139,7 @@ python main.py
 ```
 ---
 
-#### ⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 Use this framework only for ethical purposes.
 Unauthorized access to data or privacy violations is illegal.
-
-from colorama import Fore, Style
-
-print(f"{Fore.GREEN}[✔] Success: Operation completed successfully!{Style.RESET_ALL}")
-print(f"{Fore.YELLOW}[!] Warning: Check your configuration.{Style.RESET_ALL}")
-print(f"{Fore.RED}[✖] Error: Failed to connect to server.{Style.RESET_ALL}")
-print(f"{Fore.CYAN}[i] Info: Process started...{Style.RESET_ALL}")
