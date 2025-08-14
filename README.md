@@ -69,18 +69,32 @@ Optional: Use check_dependencies.py for auto-install
 
 ## ⚡ Quick Start
 
-```bash
-# Step 1: Clone the repository
-git clone https://github.com/YourUsername/OSINT.git
-cd OSINT
+### Step 1: Clone the repository
 
-# Step 2: Install dependencies using requirements.txt
+```
+https://github.com/SamzZzui/Osint.git
+```
+### Step 2:
+
+```
+cd Osint
+```
+
+### Step 3: Install dependencies using requirements.txt
+
+```
 pip install -r requirements.txt
+```
 
-# Step 3: Optional: Run dependency check script
+### Step 4: Optional: Run dependency check script
+
+```
 python check_dependencies.py
+```
 
-# Step 4: Run the OSINT framework
+### Step 5: Run the OSINT framework
+
+```
 python main.py
 
 ```
