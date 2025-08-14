@@ -11,7 +11,17 @@
 </p>
 
 
-
+<p align="center">
+  <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=700&height=70&lines=%F0%9F%A7%9E+OSINT+TOOLS+FRAMEWORK&center=true&color=00fff7" 
+         alt="OSINT Tools Banner" 
+         style="background:linear-gradient(135deg,#0f172a,#1e293b); 
+                padding:14px 18px; 
+                border-radius:18px; 
+                box-shadow:0 14px 35px rgba(0,255,255,0.25); 
+                display:inline-block;"/>
+  </a>
+</p>
 
 
 
