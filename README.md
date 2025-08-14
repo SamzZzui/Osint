@@ -94,14 +94,11 @@ Optional: Use check_dependencies.py for auto-install
 
 ## 🔮 Future Improvements
 
- - Each functionality is implemented in a separate module.
-
- - Adding new modules is very easy — just create the module and update the menu in main.py.
-
- - The code is readable, organized, scalable, and professional.
-
- - APIs or additional tools can be easily integrated.
-** for better UI.  
+- Real API integrations (email, phone, domain, social media).  
+- Exception handling for invalid inputs.  
+- Save results to `.txt` or `.csv`.  
+- Multi-platform reverse image search.  
+- Colored terminal outputs using **Colorama**.  
 
 ---
 
