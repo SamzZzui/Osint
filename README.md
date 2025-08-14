@@ -4,6 +4,11 @@
 **License:** MIT  
 **Year:** 2025  
 
+# ⚠️ Disclaimer
+
+Use this framework only for ethical purposes.
+Unauthorized access to data or privacy violations is illegal.
+
 ---
 
 ## 🏷️ Badges
@@ -119,9 +124,3 @@ python check_dependencies.py
 python main.py
 
 ```
----
-
-# ⚠️ Disclaimer
-
-Use this framework only for ethical purposes.
-Unauthorized access to data or privacy violations is illegal.
