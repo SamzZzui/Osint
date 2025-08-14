@@ -91,11 +91,14 @@ Optional: Use check_dependencies.py for auto-install
 
 ## 🔮 Future Improvements
 
-- Real APIs integration for email, phone, domain, and social media searches.  
-- Exception handling for invalid inputs.  
-- Save results to files (`.txt` or `.csv`) for record keeping.  
-- Multi-platform reverse image search.  
-- Colored outputs using **Colorama** for better UI.  
+ - Each functionality is implemented in a separate module.
+
+ - Adding new modules is very easy — just create the module and update the menu in main.py.
+
+ - The code is readable, organized, scalable, and professional.
+
+ - APIs or additional tools can be easily integrated.
+** for better UI.  
 
 ---
 
