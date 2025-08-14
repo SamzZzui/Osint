@@ -37,6 +37,25 @@ Optional: Use check_dependencies.py for auto-install
 
  - The framework provides a menu-based interface, allowing users to easily access different modules.
 
+---
+
+## ⚡ Quick Start
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/YourUsername/OSINT.git
+cd OSINT
+
+# Step 2: Install dependencies using requirements.txt
+pip install -r requirements.txt
+
+# Step 3: Optional: Run dependency check script
+python check_dependencies.py
+
+# Step 4: Run the OSINT framework
+python main.py
+
+```
 
 ---
 
@@ -103,24 +122,4 @@ Optional: Use check_dependencies.py for auto-install
 - Exception handling for invalid inputs.  
 - Save results to `.txt` or `.csv`.  
 - Multi-platform reverse image search.  
-- Colored terminal outputs using **Colorama**.  
-
----
-
-## ⚡ Quick Start
-
-```bash
-# Step 1: Clone the repository
-git clone https://github.com/YourUsername/OSINT.git
-cd OSINT
-
-# Step 2: Install dependencies using requirements.txt
-pip install -r requirements.txt
-
-# Step 3: Optional: Run dependency check script
-python check_dependencies.py
-
-# Step 4: Run the OSINT framework
-python main.py
-
-```
+- Colored terminal outputs using **Colorama**.
