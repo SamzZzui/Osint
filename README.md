@@ -72,7 +72,7 @@ Optional: Use check_dependencies.py for auto-install
 #### Step 1: Clone the repository
 
 ```
-https://github.com/SamzZzui/Osint.git
+git clone https://github.com/SamzZzui/Osint.git
 ```
 #### Step 2: Open directory
 
