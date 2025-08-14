@@ -39,7 +39,7 @@ Framework menu-based interface provide karta hai jisse user easily different mod
 
 ---
 
-## Features
+## 🎯 Features
 
 1. **Domain Lookup**  
    - Retrieve WHOIS information for any domain.  
