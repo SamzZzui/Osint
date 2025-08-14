@@ -3,16 +3,22 @@
 ### Purpose:
 Ye script OSINT framework ka entry point hai. Jab tum ise run karoge, ye menu-based interface show karta hai aur user ke choice ke hisaab se proper module call karta hai.
 
-### Key Features:
+# OSINT Framework in Python
 
-ASCII banner with author info
+Created by SAMZZZUI 
 
-Menu with 10 OSINT functionalities + Exit option
+## Features
 
-Input prompts for user data (email, domain, IP, phone, image path, etc.)
-
-Calls respective functions from modules folder
-
+- Domain Lookup
+- IP Information
+- Email Search
+- Social Media Search by Username
+- Indian Phone Number Search
+- Data Breach Search
+- People Search by Name and Email
+- Image Lookup
+- Image Metadata Lookup
+- Where Email is Used on the Internet
 
 
 ### How the Code is Modular & Scalable:
