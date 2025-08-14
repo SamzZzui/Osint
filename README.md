@@ -14,20 +14,39 @@
 
 ---
 
-## 📑 Table of Contents
+## ⚡ Notes
 
-1. [Overview](#overview)  
-2. [Features](#features)  
-3. [Architecture & Modularity](#architecture--modularity)  
-4. [Future Improvements](#future-improvements)  
-5. [Quick Start](#quick-start)  
-6. [Installation & Run](#installation--run)  
-7. [Dependency Auto-Check (Optional)](#dependency-auto-check-optional)  
-8. [Usage Demo & Screenshots](#usage-demo--screenshots)  
-9. [Sample Output](#sample-output)  
-10. [License](#license)  
-11. [Notes](#notes)  
-12. [Disclaimer](#disclaimer-use-this-framework-only-for-ethical-purposes)
+Python 3.10+ recommended
+
+Dependencies listed in requirements.txt
+
+Internet connection required for API-based modules
+
+Optional: Use check_dependencies.py for auto-install
+
+---
+
+## 🔹 Sample Output
+
+[+] Choose Module:
+1. Domain Lookup
+2. IP Information
+3. Email Search
+> 1
+
+Enter domain: example.com
+[*] Domain: example.com
+[*] IP: 93.184.216.34
+[*] ISP: Example ISP
+[*] Country: United States
+[*] Created: 1995-08-13
+
+> 3
+Enter email: test@example.com
+[*] Email Found: Yes
+[*] Breaches: 2
+[*] Sources: HaveIBeenPwned, LeakDB
+
 ---
 
 ## 🚀 Overview
@@ -116,3 +135,11 @@ python check_dependencies.py
 
 # Step 4: Run the OSINT framework
 python main.py
+
+
+---
+
+## ⚠️ Disclaimer
+
+Use this framework only for ethical purposes.
+Unauthorized access to data or privacy violations is illegal.
