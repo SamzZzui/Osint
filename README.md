@@ -16,19 +16,19 @@
 
 ## 📑 Table of Contents
 
-- [Features](#features)
+  - [Features](#features)
   - [1. Domain Lookup](#1-domain-lookup)
   - [2. IP Information](#2-ip-information)
   - [3. Email Search](#3-email-search)
-  - [4. Social Media Search by Username](#4-social-media-search-by-username)
+  - [4. Social Media Search by Username].(#4-social-media-search-by-username)
   - [5. Indian Phone Number Search](#5-indian-phone-number-search)
   - [6. Data Breach Search](#6-data-breach-search)
   - [7. People Search by Name and Email](#7-people-search-by-name-and-email)
   - [8. Image Lookup (Reverse Image Search)](#8-image-lookup-reverse-image-search)
   - [9. Image Metadata Lookup](#9-image-metadata-lookup)
   - [10. Where Email is Used on the Internet](#10-where-email-is-used-on-the-internet)
-- [Installation](#installation)
-- [License](#license)  
+  - [Installation](#installation)
+  - [License](#license)  
 
 ---
 
