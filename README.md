@@ -32,15 +32,6 @@
 </p>
 
 
-
-
-
-# 🧩 OSINT Framework - Python
-
-**Author:** SAMZZZUI  
-**License:** MIT  
-**Year:** 2025  
-
 # ⚠️ Disclaimer
 
 Use this framework only for ethical purposes.
