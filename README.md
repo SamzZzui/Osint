@@ -79,7 +79,7 @@ Framework menu-based interface provide karta hai jisse user easily different mod
 git clone https://github.com/YourUsername/OSINT.git
 cd OSINT
 
-# Step 2: Install dependencies
+# Step 2: Install dependencies using requirements.txt
 pip install -r requirements.txt
 
 # Step 3: Optional: Run dependency check script
