@@ -38,19 +38,48 @@ Framework menu-based interface provide karta hai jisse user easily different mod
 
 ---
 
-## 🎯 Features
+## Features
 
-- **Domain Lookup** – Domain ke bare me detail information.
-- **IP Information** – IP address ka location, ISP aur aur details.
-- **Email Search** – Email ke existence aur associated data check karein.
-- **Note: You'll need to register for an API key at Have I Been Pwned and include it in the headers.
-- **Social Media Search by Username** – Usernames se profiles find karein.
-- **Indian Phone Number Search** – Mobile numbers ka owner aur location.
-- **Data Breach Search** – Email ya username compromised hua ya nahi.
-- **People Search by Name and Email** – Individuals ke bare me information.
-- **Image Lookup** – Reverse image search.
-- **Image Metadata Lookup** – Image ka EXIF aur metadata extract karein.
-- **Where Email is Used** – Email internet pe kahaan kahaan use hua check karein.
+1. **Domain Lookup**  
+   - Retrieve WHOIS information for any domain.  
+   - API/Library: [python-whois](https://pypi.org/project/python-whois/)  
+
+2. **IP Information**  
+   - Obtain geolocation and ISP details for an IP address.  
+   - API: [ipinfo.io](https://ipinfo.io/)  
+
+3. **Email Search**  
+   - Check if an email has been involved in any data breaches.  
+   - API: [Have I Been Pwned](https://haveibeenpwned.com/API/Key)  
+
+4. **Social Media Search by Username**  
+   - Search for a username across Instagram, Twitter, Facebook, LinkedIn.  
+   - No official API used; basic HTTP requests to profile URLs.  
+   - Advanced: Use [SocialSearcher](https://www.social-searcher.com/)  
+
+5. **Indian Phone Number Search**  
+   - Lookup Indian phone numbers using public directories or APIs.  
+   - Suggested API: [PhoneInfoga](https://github.com/PhoneInfoga/PhoneInfoga)  
+
+6. **Data Breach Search**  
+   - Checks if email appears in known data breaches.  
+   - API: [Have I Been Pwned](https://haveibeenpwned.com/API/Key)  
+
+7. **People Search by Name and Email**  
+   - Search for people by name and optionally email.  
+   - Suggested API: [PeopleDB](https://peopledb.io/)  
+
+8. **Image Lookup (Reverse Image Search)**  
+   - Find where an image appears on the web.  
+   - API: [TinEye](https://services.tineye.com/developers/)  
+
+9. **Image Metadata Lookup**  
+   - Extract EXIF data from images.  
+   - Library: [Pillow](https://pillow.readthedocs.io/)  
+
+10. **Where Email is Used on the Internet**  
+    - Search where an email address appears online.  
+    - API: [EmailRep](https://emailrep.io/)  
 
 ---
 
