@@ -10,7 +10,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)  
 ![License](https://img.shields.io/badge/license-MIT-green.svg)  
-![GitHub Stars](https://img.shields.io/github/stars/YourUsername/OSINT?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/SamzZzui/OSINT?style=social)  
 
 ---
 
