@@ -16,18 +16,19 @@
 
 ## 📑 Table of Contents
 
-1. [Overview](#🚀-overview)  
-2. [Features](#🎯-features)  
-3. [Architecture & Modularity](#🛠️-architecture--modularity)  
-4. [Future Improvements](#🔮-future-improvements)  
-5. [Quick Start](#⚡-quick-start)  
-6. [Installation & Run](#💻-installation--run)  
-7. [Dependency Auto-Check](#⚙️-dependency-auto-check-optional)  
-8. [Usage Demo & Screenshots](#📸-usage-demo--screenshots)  
-9. [Sample Output](#🔹-sample-output)  
-10. [License](#📜-license)  
-11. [Notes](#⚡-notes)  
-12. [Disclaimer](#-disclaimer-use-this-framework-only-for-ethical-purposes)  
+- [Features](#features)
+  - [1. Domain Lookup](#1-domain-lookup)
+  - [2. IP Information](#2-ip-information)
+  - [3. Email Search](#3-email-search)
+  - [4. Social Media Search by Username](#4-social-media-search-by-username)
+  - [5. Indian Phone Number Search](#5-indian-phone-number-search)
+  - [6. Data Breach Search](#6-data-breach-search)
+  - [7. People Search by Name and Email](#7-people-search-by-name-and-email)
+  - [8. Image Lookup (Reverse Image Search)](#8-image-lookup-reverse-image-search)
+  - [9. Image Metadata Lookup](#9-image-metadata-lookup)
+  - [10. Where Email is Used on the Internet](#10-where-email-is-used-on-the-internet)
+- [Installation](#installation)
+- [License](#license)  
 
 ---
 
