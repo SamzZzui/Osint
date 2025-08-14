@@ -10,11 +10,16 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#">
-    <img src="https://i.imgur.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbIr-AyK_KYyGOrSi4dKl229WsubMI5OFzQ&s" alt="OSINT Tools Banner" width="600"/>
-  </a>
-</p>
+
+   ____      _       _                            
+  / __ \    (_)     | |                           
+ | |  | |___ _ _ __ | |_ __ _ _ __ __ _ _ __ ___  
+ | |  | / __| | '_ \| __/ _` | '__/ _` | '_ ` _ \ 
+ | |__| \__ \ | | | | || (_| | | | (_| | | | | | |
+  \____/|___/_|_| |_|\__\__, |_|  \__,_|_| |_| |_|
+                         __/ |                    
+                        |___/                     
+
 
 <p align="center">
   <sub>Design by <strong>SamzZzui</strong></sub>
