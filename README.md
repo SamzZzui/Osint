@@ -66,3 +66,9 @@ $ cd OSINT
 $ python main.py
 
 4. Follow menu prompts.]
+
+
+"""
+MIT License
+Copyright (c) 2025 SamzZzui
+"""
