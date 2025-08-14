@@ -1,3 +1,21 @@
+<p align="center">
+  <a href="https://github.com/SamzZzui/readme-typing-svg" style="text-decoration:none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=60&lines=%F0%9F%A7%9E+OSINT+Framework+-+Python&center=true&color=00fff7" 
+         alt="Typing SVG" 
+         style="background:linear-gradient(135deg,#0f172a,#1e293b); 
+                padding:12px 16px; 
+                border-radius:15px; 
+                box-shadow:0 12px 30px rgba(0,255,255,0.2); 
+                display:inline-block;"/>
+  </a>
+</p>
+
+
+
+
+
+
+
 # 🧩 OSINT Framework - Python
 
 **Author:** SAMZZZUI  
