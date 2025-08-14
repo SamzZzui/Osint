@@ -1,0 +1,14 @@
+# check_dependencies.py
+import subprocess
+import sys
+
+with open("requirements.txt") as f:
+    packages = f.read().splitlines()
+
+for pkg in packages:
+    try:
+        __import__(pkg)
+        print(f"[✔] {pkg} is installed.")
+    except ImportError:
+        print(f"[❌] {pkg} not found. Installing...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", pkg])
