@@ -74,7 +74,7 @@ Optional: Use check_dependencies.py for auto-install
 ```
 https://github.com/SamzZzui/Osint.git
 ```
-#### Step 2:
+#### Step 2: Open directory
 
 ```
 cd Osint
