@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://i.imgur.com/your_image_link.png" alt="OSINT Tools Banner" width="600"/>
+    <img src="https://i.imgur.com/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbIr-AyK_KYyGOrSi4dKl229WsubMI5OFzQ&s" alt="OSINT Tools Banner" width="600"/>
   </a>
 </p>
 
