@@ -16,7 +16,7 @@
 
 ## 📑 Table of Contents
 
-1. [Overview](#🚀 Overview)  
+1. [Overview](#🚀-Overview)  
 2. [Features](#🎯-features)  
 3. [Architecture & Modularity](#🛠️-architecture--modularity)  
 4. [Future Improvements](#🔮-future-improvements)  
