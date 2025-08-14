@@ -1,4 +1,32 @@
-# check_dependencies.py
+# OSINT Framework dependencies
+
+# HTTP requests
+requests>=2.31.0
+
+# Parsing HTML
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+
+# Working with JSON & API
+python-dotenv>=1.0.0
+
+# Terminal colors
+colorama>=0.4.6
+
+# Image processing
+Pillow>=10.0.0
+
+# Whois lookups
+python-whois>=0.7.3
+
+# Networking and IP info
+ipwhois>=2.2.0
+
+# Optional: social media scraping
+selenium>=4.12.1
+
+# Optional: phone number parsing
+phonenumbers>=8.13.12
 import subprocess
 import sys
 
@@ -12,3 +40,4 @@ for pkg in packages:
     except ImportError:
         print(f"[❌] {pkg} not found. Installing...")
         subprocess.check_call([sys.executable, "-m", "pip", "install", pkg])
+
